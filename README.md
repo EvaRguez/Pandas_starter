@@ -1,3 +1,5 @@
+![Pandas logo](https://pandas.pydata.org/static/img/pandas.svg)
+
 # 📊 Mastering Data Analysis with Pandas
 
 Welcome to the **Mastering Data Analysis with Pandas** project. This repository showcases a series of exercises and projects that illustrate the power of the Pandas library in Python. The goal of this project is to demonstrate how Pandas can be leveraged for data manipulation, analysis, and advanced operations, making it an essential tool for any data professional.
@@ -90,7 +92,7 @@ To run the notebooks in this repository, you will need:
 3. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install numpy pandas
    ```
 
 4. Launch Jupyter Notebook:
@@ -112,9 +114,10 @@ This repository is structured as a learning resource for both beginners and adva
 
 ## 📧 Contact
 
-If you have any questions, suggestions, or would like to contribute to this project, please feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or would like to contribute to this project, please feel free to reach out to my [email](mailto:evarodriguezceballos@gmail.com).
 
 Alternatively, you can connect with me on [LinkedIn](https://www.linkedin.com/in/eva-rodriguez-ceballos-/).
+
 
 ---
 
